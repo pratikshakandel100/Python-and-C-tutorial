@@ -1,0 +1,28 @@
+#percentage = int(input("Enter your percentage:"))
+#if percentage >= 81:
+ #   print("Your percentage is very good")
+#elif percentage >= 61:
+ #   print("Your percentage is good")
+#elif percentage >= 41:
+ #   print("Your percentage is average")
+#else:
+ #   print("Your are fail")
+
+#Number = int(input("Enter a number"))
+#if Number >= 1000 and Number <= 9999:
+ #   print("It is a four digit number")
+#else:
+ 
+   #print("It is not a four digit number")
+
+#a = int(input("Enter a number:"))
+#b = int(input("Enter a number:"))            
+#c = int (input("Enter a number"))
+#if a > b and a > c:
+ #   print("a is the greatest vanue")
+#elif b > c and b > a:
+ #   print("b is the greastest number")
+#else:
+ #   print("c is the greast number")
+
+

@@ -1,0 +1,8 @@
+Cp = 100
+Sp = 120
+if Sp > Cp:
+    print("You are in profit")
+else:
+    print("You are in loss")
+profit = Sp - Cp
+print("Ypur profit is", profit)

@@ -1,0 +1,9 @@
+a = 1
+b = 2
+c = 3
+str_a = str(a)
+str_b = str(b)
+str_c = str(c)
+Final_str = str_a + str_b + str_c
+Final_int = int(Final_str)
+print("The final int is ", Final_int, type(Final_int))
